@@ -1,0 +1,9 @@
+d:\users\rouslan\documents\visual studio 2015\Projects\MouseClicker\MouseClicker\bin\Debug\MouseClicker.exe.config
+d:\users\rouslan\documents\visual studio 2015\Projects\MouseClicker\MouseClicker\bin\Debug\MouseClicker.exe
+d:\users\rouslan\documents\visual studio 2015\Projects\MouseClicker\MouseClicker\bin\Debug\MouseClicker.pdb
+d:\users\rouslan\documents\visual studio 2015\Projects\MouseClicker\MouseClicker\obj\Debug\MouseClicker.csprojResolveAssemblyReference.cache
+d:\users\rouslan\documents\visual studio 2015\Projects\MouseClicker\MouseClicker\obj\Debug\MouseClicker.Form1.resources
+d:\users\rouslan\documents\visual studio 2015\Projects\MouseClicker\MouseClicker\obj\Debug\MouseClicker.Properties.Resources.resources
+d:\users\rouslan\documents\visual studio 2015\Projects\MouseClicker\MouseClicker\obj\Debug\MouseClicker.csproj.GenerateResource.Cache
+d:\users\rouslan\documents\visual studio 2015\Projects\MouseClicker\MouseClicker\obj\Debug\MouseClicker.exe
+d:\users\rouslan\documents\visual studio 2015\Projects\MouseClicker\MouseClicker\obj\Debug\MouseClicker.pdb
