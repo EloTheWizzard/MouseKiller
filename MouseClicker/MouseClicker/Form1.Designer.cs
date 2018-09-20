@@ -33,6 +33,7 @@
             this.numcl = new System.Windows.Forms.Label();
             this.lvl2 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
+            this.allnum = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lvl1
@@ -76,11 +77,22 @@
             this.label1.TabIndex = 4;
             this.label1.Text = "motivation";
             // 
+            // allnum
+            // 
+            this.allnum.AutoSize = true;
+            this.allnum.Location = new System.Drawing.Point(655, 13);
+            this.allnum.Name = "allnum";
+            this.allnum.Size = new System.Drawing.Size(35, 13);
+            this.allnum.TabIndex = 5;
+            this.allnum.Text = "label2";
+            //this.allnum.Click += new System.EventHandler(this.allnum_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(729, 261);
+            this.Controls.Add(this.allnum);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lvl2);
             this.Controls.Add(this.numcl);
@@ -100,6 +112,7 @@
         private System.Windows.Forms.Label numcl;
         private System.Windows.Forms.Button lvl2;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label allnum;
     }
 }
 
