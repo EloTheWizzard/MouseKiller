@@ -34,10 +34,12 @@
             this.lvl2 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.allnum = new System.Windows.Forms.Label();
+            this.sh1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lvl1
             // 
+            this.lvl1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.lvl1.Image = ((System.Drawing.Image)(resources.GetObject("lvl1.Image")));
             this.lvl1.Location = new System.Drawing.Point(12, 86);
             this.lvl1.Name = "lvl1";
@@ -58,6 +60,7 @@
             // 
             // lvl2
             // 
+            this.lvl2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.lvl2.Image = ((System.Drawing.Image)(resources.GetObject("lvl2.Image")));
             this.lvl2.Location = new System.Drawing.Point(467, 86);
             this.lvl2.Name = "lvl2";
@@ -85,13 +88,26 @@
             this.allnum.Size = new System.Drawing.Size(35, 13);
             this.allnum.TabIndex = 5;
             this.allnum.Text = "label2";
-            //this.allnum.Click += new System.EventHandler(this.allnum_Click);
+            // 
+            // sh1
+            // 
+            this.sh1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.sh1.ForeColor = System.Drawing.Color.DarkBlue;
+            this.sh1.Image = ((System.Drawing.Image)(resources.GetObject("sh1.Image")));
+            this.sh1.Location = new System.Drawing.Point(24, 19);
+            this.sh1.Name = "sh1";
+            this.sh1.Size = new System.Drawing.Size(125, 26);
+            this.sh1.TabIndex = 6;
+            this.sh1.Text = "Shop";
+            this.sh1.UseVisualStyleBackColor = true;
+            this.sh1.Click += new System.EventHandler(this.sh1_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(729, 261);
+            this.Controls.Add(this.sh1);
             this.Controls.Add(this.allnum);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lvl2);
@@ -113,6 +129,7 @@
         private System.Windows.Forms.Button lvl2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label allnum;
+        private System.Windows.Forms.Button sh1;
     }
 }
 

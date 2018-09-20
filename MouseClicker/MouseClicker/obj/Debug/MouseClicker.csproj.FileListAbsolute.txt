@@ -16,3 +16,4 @@ D:\Users\Rouslan\Documents\GitHub\MouseKiller\MouseClicker\MouseClicker\obj\Debu
 D:\Users\Rouslan\Documents\GitHub\MouseKiller\MouseClicker\MouseClicker\obj\Debug\MouseClicker.Form1.resources
 D:\Users\Rouslan\Documents\GitHub\MouseKiller\MouseClicker\MouseClicker\obj\Debug\MouseClicker.Properties.Resources.resources
 D:\Users\Rouslan\Documents\GitHub\MouseKiller\MouseClicker\MouseClicker\obj\Debug\MouseClicker.csproj.GenerateResource.Cache
+D:\Users\Rouslan\Documents\GitHub\MouseKiller\MouseClicker\MouseClicker\obj\Debug\MouseClicker.Form2.resources

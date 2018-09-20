@@ -34,14 +34,6 @@ namespace MouseClicker
             }
             numcl.Text = i.ToString();
         }//lvl1 
-        //private string d (int i)
-        //{
-        //    if (i == 2 || i == 3 || i == 4)
-        //    {
-        //        return " раза";
-        //    }
-        //    return " раз";
-        //}
         private void Form1_Load(object sender, EventArgs e)
         {
             lvl2.Visible = false;
@@ -50,7 +42,6 @@ namespace MouseClicker
             numcl.Text = "-";
             label1.Visible = false;
         }//visible or un (names text and aner)
-
         private void vistest_Click(object sender, EventArgs e)
         {           
                 i++;
@@ -63,6 +54,13 @@ namespace MouseClicker
                 numcl.Text = "крч хз, до свидания, блин.."; //шедевр просто..
             }
         }//lvl2 testver
+
+        private void sh1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form2 f2 = new Form2();
+            f2.ShowDialog();
+        }
 
         //private void label1_Click(object sender, EventArgs e)
         //{
