@@ -7,3 +7,5 @@ d:\users\rouslan\documents\visual studio 2015\Projects\MouseClicker\MouseClicker
 d:\users\rouslan\documents\visual studio 2015\Projects\MouseClicker\MouseClicker\obj\Debug\MouseClicker.csproj.GenerateResource.Cache
 d:\users\rouslan\documents\visual studio 2015\Projects\MouseClicker\MouseClicker\obj\Debug\MouseClicker.exe
 d:\users\rouslan\documents\visual studio 2015\Projects\MouseClicker\MouseClicker\obj\Debug\MouseClicker.pdb
+D:\Users\Rouslan\Documents\GitHub\MouseKiller\MouseClicker\MouseClicker\bin\Debug\MouseClicker.exe.config
+D:\Users\Rouslan\Documents\GitHub\MouseKiller\MouseClicker\MouseClicker\obj\Debug\MouseClicker.pdb
