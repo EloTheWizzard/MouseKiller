@@ -8,4 +8,16 @@ d:\users\rouslan\documents\visual studio 2015\Projects\MouseClicker\MouseClicker
 d:\users\rouslan\documents\visual studio 2015\Projects\MouseClicker\MouseClicker\obj\Debug\MouseClicker.exe
 d:\users\rouslan\documents\visual studio 2015\Projects\MouseClicker\MouseClicker\obj\Debug\MouseClicker.pdb
 D:\Users\Rouslan\Documents\GitHub\MouseKiller\MouseClicker\MouseClicker\bin\Debug\MouseClicker.exe.config
+<<<<<<< HEAD
 D:\Users\Rouslan\Documents\GitHub\MouseKiller\MouseClicker\MouseClicker\obj\Debug\MouseClicker.pdb
+=======
+D:\Users\Rouslan\Documents\GitHub\MouseKiller\MouseClicker\MouseClicker\obj\Debug\MouseClicker.exe
+D:\Users\Rouslan\Documents\GitHub\MouseKiller\MouseClicker\MouseClicker\obj\Debug\MouseClicker.pdb
+D:\Users\Rouslan\Documents\GitHub\MouseKiller\MouseClicker\MouseClicker\bin\Debug\MouseClicker.exe
+D:\Users\Rouslan\Documents\GitHub\MouseKiller\MouseClicker\MouseClicker\bin\Debug\MouseClicker.pdb
+D:\Users\Rouslan\Documents\GitHub\MouseKiller\MouseClicker\MouseClicker\obj\Debug\MouseClicker.csprojResolveAssemblyReference.cache
+D:\Users\Rouslan\Documents\GitHub\MouseKiller\MouseClicker\MouseClicker\obj\Debug\MouseClicker.Form1.resources
+D:\Users\Rouslan\Documents\GitHub\MouseKiller\MouseClicker\MouseClicker\obj\Debug\MouseClicker.Properties.Resources.resources
+D:\Users\Rouslan\Documents\GitHub\MouseKiller\MouseClicker\MouseClicker\obj\Debug\MouseClicker.csproj.GenerateResource.Cache
+D:\Users\Rouslan\Documents\GitHub\MouseKiller\MouseClicker\MouseClicker\obj\Debug\MouseClicker.Form2.resources
+>>>>>>> sumtest
